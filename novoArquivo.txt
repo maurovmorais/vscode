@@ -1,1 +1,3 @@
 Usando git x vs
+
+Arquivo editado pelo gitHub
